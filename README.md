@@ -2,7 +2,7 @@
 
 Separate sections of levelup, with hooks!
 
-[![build status](https://secure.travis-ci.org/dominictarr/level-sublevel.png)](http://travis-ci.org/dominictarr/level-sublevel)
+[![build status](https://secure.travis-ci.org/dominictarr/level-sublevel.png)](httip://travis-ci.org/dominictarr/level-sublevel)
 
 This module allows you to create seperate sections of a
 [levelup](https://github.com/rvagg/node-levelup) database,
@@ -13,7 +13,7 @@ for real-time changing data.
 
 Unstable: Expect patches and features, possible api changes.
 
-This is module is working well, but may change in the future as it's use is futher explored.
+This is module is working well, but may change in the future as its use is futher explored.
 
 ## Example
 
